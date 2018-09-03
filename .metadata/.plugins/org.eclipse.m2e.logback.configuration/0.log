@@ -38,3 +38,5 @@
 2018-09-02 20:06:41,180 [Worker-39: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-02 20:07:08,142 [Worker-41: Launching Executing test in E__Test_123_Just] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Test_123\Just
 2018-09-02 20:07:08,154 [Worker-41: Launching Executing test in E__Test_123_Just] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2018-09-03 11:54:30,171 [Worker-103: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-03 11:54:30,171 [Worker-103: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
